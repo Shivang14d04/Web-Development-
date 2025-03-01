@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+    margin: auto;
+    width: 70%;
+}
+.dices{
+    display: flex;
+    
+    gap: 40px;
+    justify-content: center;
+    
+}
+body{
+    background-color:wheat;
+    
+}
+h1{
+    font-family: "lobster", cursive;
+    font-size: 5rem;
+    font-weight: 5;
+    margin: 50px;
+}
+h3{
+    font-family: "lobster"  , cursive;
+    font-size: 1.5rem;
+    font-weight: 100;
+    margin: 30px;
+}
+footer{
+    text-align: center;
+    margin: 50px;
+    font-family: "lobster" ,cursive;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
